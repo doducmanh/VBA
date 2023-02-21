@@ -1,2 +1,2 @@
-- do automation task, clean data, processing data to database
+- do automation task, clean data, power query, processing data to database
 - make reports, automate task via Excel (split, combine, filter, others...), Outlook (send mail, format mail, extract content from email...), Access and other useful tasks.
